@@ -3,12 +3,17 @@
     "displayName": "Gon Freecss Theme",
     "description": "Gon Freecss Color Palette Theme",
     "version": "0.0.1",
+    "publisher": "stasjdm",
     "engines": {
         "vscode": "^1.59.0"
     },
     "categories": [
         "Themes"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/StasJDM/gon-freecss-theme"
+      },
     "contributes": {
         "themes": [
             {
