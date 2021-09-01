@@ -1,0 +1,21 @@
+{
+    "name": "gon-freecss-theme",
+    "displayName": "Gon Freecss Theme",
+    "description": "Gon Freecss Color Palette Theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Gon Freecss Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Gon Freecss Theme-color-theme.json"
+            }
+        ]
+    }
+}
