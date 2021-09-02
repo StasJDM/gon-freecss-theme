@@ -2,7 +2,7 @@
     "name": "gon-freecss-theme",
     "displayName": "Gon Freecss Theme",
     "description": "Gon Freecss Color Palette Theme",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "icon": "images/icon.png",
     "publisher": "stasjdm",
     "engines": {
@@ -11,7 +11,12 @@
     "categories": [
         "Themes"
     ],
-    "keywords": ["Theme", "Gon Freecss", "Anime", "Hunter x Hunter"],
+    "keywords": [
+        "Theme",
+        "Gon Freecss",
+        "Anime",
+        "Hunter x Hunter"
+    ],
     "repository": {
         "type": "git",
         "url": "https://github.com/StasJDM/gon-freecss-theme"
